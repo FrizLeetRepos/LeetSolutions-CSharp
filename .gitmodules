@@ -22,3 +22,6 @@
 [submodule "8-String-to-Integer--atoi--CSharp"]
 	path = 8-String-to-Integer--atoi--CSharp
 	url = https://github.com/FrizLeetRepos/8-String-to-Integer--atoi--CSharp
+[submodule "X-Template-LeetCode-WorkSpace-CSharp"]
+	path = X-Template-LeetCode-WorkSpace-CSharp
+	url = https://github.com/FrizLeetRepos/X-Template-LeetCode-WorkSpace-CSharp
