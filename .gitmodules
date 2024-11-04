@@ -13,3 +13,6 @@
 [submodule "5-Longest-Palindromic-Substring-CSharp"]
 	path = 5-Longest-Palindromic-Substring-CSharp
 	url = https://github.com/FrizLeetRepos/5-Longest-Palindromic-Substring-CSharp
+[submodule "6-Zigzag-Conversion-CSharp"]
+	path = 6-Zigzag-Conversion-CSharp
+	url = https://github.com/FrizLeetRepos/6-Zigzag-Conversion-CSharp
