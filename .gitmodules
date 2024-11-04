@@ -10,3 +10,6 @@
 [submodule "4-Median-of-Two-Sorted-Arrays-CSharp"]
 	path = 4-Median-of-Two-Sorted-Arrays-CSharp
 	url = https://github.com/FrizLeetRepos/4-Median-of-Two-Sorted-Arrays-CSharp
+[submodule "5-Longest-Palindromic-Substring-CSharp"]
+	path = 5-Longest-Palindromic-Substring-CSharp
+	url = https://github.com/FrizLeetRepos/5-Longest-Palindromic-Substring-CSharp
