@@ -7,3 +7,6 @@
 [submodule "3-Longest-Substring-Without-Repeating-Characters-CSharp"]
 	path = 3-Longest-Substring-Without-Repeating-Characters-CSharp
 	url = https://github.com/FrizLeetRepos/3-Longest-Substring-Without-Repeating-Characters-CSharp
+[submodule "4-Median-of-Two-Sorted-Arrays-CSharp"]
+	path = 4-Median-of-Two-Sorted-Arrays-CSharp
+	url = https://github.com/FrizLeetRepos/4-Median-of-Two-Sorted-Arrays-CSharp
