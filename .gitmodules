@@ -16,3 +16,6 @@
 [submodule "6-Zigzag-Conversion-CSharp"]
 	path = 6-Zigzag-Conversion-CSharp
 	url = https://github.com/FrizLeetRepos/6-Zigzag-Conversion-CSharp
+[submodule "7-Reverse-Integer-CSharp"]
+	path = 7-Reverse-Integer-CSharp
+	url = https://github.com/FrizLeetRepos/7-Reverse-Integer-CSharp

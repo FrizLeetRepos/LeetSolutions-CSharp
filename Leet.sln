@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Longest Palindromic Subs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Zigzag Conversion", "6-Zigzag-Conversion-CSharp\6. Zigzag Conversion.csproj", "{3A41DE63-50B1-4033-B287-FB6040B11E81}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Reverse Integer", "7-Reverse-Integer-CSharp\7. Reverse Integer.csproj", "{72D2B5D2-864F-4719-83C0-23F4207835E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3A41DE63-50B1-4033-B287-FB6040B11E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A41DE63-50B1-4033-B287-FB6040B11E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A41DE63-50B1-4033-B287-FB6040B11E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D2B5D2-864F-4719-83C0-23F4207835E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D2B5D2-864F-4719-83C0-23F4207835E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D2B5D2-864F-4719-83C0-23F4207835E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D2B5D2-864F-4719-83C0-23F4207835E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
