@@ -28,3 +28,6 @@
 [submodule "36-Valid-Sudoku"]
 	path = 36-Valid-Sudoku
 	url = https://github.com/FrizLeetRepos/36-Valid-Sudoku
+[submodule "37-Sudoku-Solver"]
+	path = 37-Sudoku-Solver
+	url = https://github.com/FrizLeetRepos/37-Sudoku-Solver
