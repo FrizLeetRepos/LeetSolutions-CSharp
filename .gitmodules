@@ -31,3 +31,6 @@
 [submodule "37-Sudoku-Solver"]
 	path = 37-Sudoku-Solver
 	url = https://github.com/FrizLeetRepos/37-Sudoku-Solver
+[submodule "30-Substring-with-Concatenation-of-All-Words-CSharp"]
+	path = 30-Substring-with-Concatenation-of-All-Words-CSharp
+	url = https://github.com/FrizLeetRepos/30-Substring-with-Concatenation-of-All-Words-CSharp
